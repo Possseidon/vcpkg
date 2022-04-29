@@ -1772,6 +1772,10 @@
       "baseline": "may2021",
       "port-version": 0
     },
+    "dang-lib": {
+      "baseline": "0.1.0",
+      "port-version": 0
+    },
     "darknet": {
       "baseline": "2022-03-06",
       "port-version": 0
